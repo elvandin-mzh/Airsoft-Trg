@@ -1,0 +1,23 @@
+p {text-align: center;
+   color: brown;
+   font-size: 20px;
+   
+
+
+   }
+
+h1  {text-align: center;
+   color: brown;
+
+   }
+
+body {background-image:url("../images/back.png");
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover ;
+  
+
+     }  
+table, td {border: 1px solid black;
+      border-collapse: collapse;
+      } 
